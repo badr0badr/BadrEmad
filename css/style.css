@@ -163,9 +163,9 @@ a:hover {
 
 /* Theme Toggle */
 .theme-toggle {
-  position: fixed;
+  /* position: fixed;
   top: 20px;
-  right: 20px;
+  right: 20px; */
   width: 40px;
   height: 40px;
   background-color: var(--primary-color);
@@ -175,7 +175,7 @@ a:hover {
   align-items: center;
   justify-content: center;
   cursor: pointer;
-  z-index: 100000;
+  /* z-index: 100000; */
   transition: all var(--transition-fast);
 }
 
